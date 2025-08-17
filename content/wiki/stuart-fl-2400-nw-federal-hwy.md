@@ -1,10 +1,12 @@
 +++
-title = "Stuart, FL (2400 NW Federal Hwy)"
 draft = false
+title = "Stuart, FL (2400 NW Federal Hwy)"
+startDate = "1999-05-01"
+endDate = ""
+pageThumbnailFile = ""
+contributors = ["TheAnimatronicChaos"]
+citations = ["Unknown"]
 tags = ["Locations"]
 categories = ["Chuck E. Cheese's"]
-pageThumbnailFile = ""
-startDate = "1999-00-00"
-endDate = ""
-contributors = []
 +++
+The Stuart, FL location is a very unknown location.
